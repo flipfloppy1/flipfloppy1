@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**flipfloppy1/flipfloppy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm flipfloppy. (he/him)
 
-Here are some ideas to get you started:
+### Current projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [VidentiUI](https://github.com/flipfloppy1/VidentiUI), an open-source UI library for games.
+* Ludus, a voxel game with combat, exploration and lore. (More on that on [my blog](https://flipfloppy.dev/) and on [YouTube](https://www.youtube.com/@flipfloppy1)!(eventually))
+
+I'm an avid developer with an interest in writing robust and speedy code using C++, and I've recently begun to learn Lua and Vim. 
+
+### Collaboration
+If you're interested in contributing to VidentiUI, whether through ideas or code, let me know!
+
+### Contact
+You can reach me privately at flipfloppy.business@gmail.com, or if you have any questions about my open-source projects, feel free to let me know there (in discussions, or in issues if it's an issue).
