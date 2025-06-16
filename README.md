@@ -4,13 +4,14 @@ I'm flipfloppy. (he/him)
 
 ### Current projects 
 
-* [VidentiUI](https://github.com/flipfloppy1/VidentiUI), an open-source UI library for games.
-* Ludus, a voxel game with combat, simulation, exploration and lore. (More on that on [my blog](https://flipfloppy1.github.io/) and on [YouTube](https://www.youtube.com/@flipfloppy1)! (eventually))
+* [quDnD](https://github.com/flipfloppy1/quDnD), a stat generator and wiki browser for Caves of Qud that can generate equivalent DnD statblocks on the fly!
+* [this->Eidolon](https://github.com/flipfloppy1/Eidolon), a traditional roguelike with morphing mechanics.
+* An [OpenGL/ANGLE backend](https://github.com/flipfloppy1/clay) for CLAY (the UI layout lib)
 
-I'm an avid developer with an interest in writing robust and speedy code using C++, and I've recently begun to learn Lua and Vim. My current setup is an experiment using Arch Linux, SwayWM and Zed, with gdb for debugging.
+I'm an avid developer with an interest in writing robust and speedy code using all sorts of technologies. I use Arch Linux (btw), Sway and Zed, and I'm mostly self-taught in C++, Golang, JS/TS, Lua and Angular.
 
 ### Collaboration
-If you're interested in contributing to VidentiUI, whether through ideas or code, let me know! PRs for new backends are always welcome, if they're something I'm able to test.
+If you're interested in contributing to my open-source projects, whether through ideas or code, let me know! PRs for new features or fixes are always welcome, if they're something I'm able to test.
 
 ### Contact
 You can reach me privately at flipfloppy.business@gmail.com, or if you have any questions about my open-source projects, feel free to let me know there (in discussions, or in issues if it's an issue).
